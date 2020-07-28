@@ -1,0 +1,2 @@
+关闭Keil,替换keil\UV4下的global.prop和global.prop.def
+提示: 替换前可将原文件备份
