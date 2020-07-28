@@ -36,5 +36,5 @@ CSDN	£ºhttps://blog.csdn.net/qq_34390075
 void main()
 {
 	/*ÔÙÉ¾³ý*/
-	for(;;);
+	if(1);
 }
