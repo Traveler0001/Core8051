@@ -1,0 +1,23 @@
+".\output\main.obj",
+".\output\core51_it.obj",
+".\output\delay.obj",
+".\output\sim_i2c.obj",
+".\output\sim_spi.obj",
+".\output\core51_exti.obj",
+".\output\core51_tim.obj",
+".\output\core51_uart.obj",
+".\output\specification.obj",
+".\output\core51_e2prom.obj",
+".\output\smg.obj",
+".\output\lcd.obj",
+".\output\temp.obj",
+".\output\RC522.obj",
+".\output\ds1302.obj",
+".\output\XPT2046.obj",
+".\output\AT24CXX.obj",
+".\output\OLED12864.obj",
+".\output\Matrix_Buttons.obj",
+".\output\Test_LED.obj" 
+TO ".\output\template" 
+
+PRINT(".\template.map") REMOVEUNUSED 
