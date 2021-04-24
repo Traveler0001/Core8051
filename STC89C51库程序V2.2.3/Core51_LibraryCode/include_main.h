@@ -15,6 +15,7 @@
 #include "Fingerprint.H"
 #include "OLED12864.H"
 #include "stdio.h"
+#include "test_led.h"
 
 #endif
 #endif

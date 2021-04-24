@@ -39,6 +39,6 @@ void main(void)
 	
 	while(1)
 	{
-		
+		Test_Led();
 	}
 }
